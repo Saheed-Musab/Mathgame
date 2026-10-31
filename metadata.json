@@ -1,0 +1,6 @@
+{
+  "name": "Number Rush - Rapid Number Puzzle Game",
+  "description": "An addictive, fast-paced number puzzle game. Match the target number by tapping the right tiles before the 30-second timer runs out!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
